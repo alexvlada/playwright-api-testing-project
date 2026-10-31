@@ -51,7 +51,7 @@ The test suite covers the following scenarios:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/playwright-api-testing-project.git
+git clone https://github.com/alexvlada/playwright-api-testing-project.git
 cd playwright-api-testing-project
 ```
 
